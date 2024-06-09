@@ -1,8 +1,4 @@
 # Debian12Nirvana
-Debian12Nirvana provides XFCE configuration files for Debian 12, offering a customized desktop setup with themes, panels, and applications. Use these configurations to replicate this environment on your system or as a starting point for your own customizations.
-
-# Debian12nirvana
-
 Welcome to Debian12nirvana! This repository contains the configuration files for my XFCE desktop environment on Debian 12. By sharing these configurations, I hope to help others achieve a similar setup or provide a starting point for their own customizations.
 
 ## Contents
