@@ -34,26 +34,26 @@ Clone the repository to your local machine using the following command:
 
 git clone https://github.com/yourusername/Debian12nirvana.git
 
-2. Extract the Compressed File
+### 2. Extract the Compressed File
 
 Navigate to the cloned repository directory and extract the xfce4_copy.tar.gz file:
 
 cd Debian12nirvana
 tar -xzvf xfce4_copy.tar.gz -C ~/.config/
 
-3. Backup Existing Configurations (Optional)
+### 3. Backup Existing Configurations (Optional)
 
 If you have existing XFCE configurations, it is recommended to back them up before copying the new ones:
 
 mv ~/.config/xfce4 ~/.config/xfce4_backup
 
-4. Apply the New Configurations
+### 4. Apply the New Configurations
 
 Move the extracted xfce4_copy directory to your .config directory and rename it to xfce4:
 
 mv ~/.config/xfce4_copy ~/.config/xfce4
 
-5. Restart XFCE
+### 5. Restart XFCE
 
 Restart your XFCE session or reboot your system to apply the new configurations.
 
