@@ -32,7 +32,6 @@ To use the configurations in this repository, follow these steps:
 
 Clone the repository to your local machine using the following command:
 
-```bash
 git clone https://github.com/yourusername/Debian12nirvana.git
 
 2. Extract the Compressed File
