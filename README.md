@@ -5,7 +5,6 @@ Welcome to Debian12nirvana! This repository contains the configuration files for
 
 This repository includes the following files and directories:
 
-- `.config/xfce4/`: The main directory containing all the XFCE configuration files.
 - `xfce4_copy.tar.gz`: A compressed file of the `.config/xfce4` directory.
 - `Wallpaper_1920x1080.png`: 1920x1080P resolution wallpaper.
 - `README.md`: This file.
