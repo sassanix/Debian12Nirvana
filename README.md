@@ -72,7 +72,7 @@ If you encounter issues, consider the following steps:
 	•	Check file permissions using ls -l ~/.config/xfce4.
 	•	Restore the backup configuration if necessary.
 
-## Restoring Original Settings
+Restoring Original Settings
 
 To revert to your original settings, restore the backup:
 
