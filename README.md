@@ -57,14 +57,14 @@ mv ~/.config/xfce4_copy ~/.config/xfce4
 
 Restart your XFCE session or reboot your system to apply the new configurations.
 
-Verification
+## Verification
 
 After restarting, your desktop should reflect the new configurations. Check for the following:
 
 	•	The desktop environment resembles the screenshot provided.
 	•	Custom themes and panels are applied correctly.
 
-Troubleshooting
+## Troubleshooting
 
 If you encounter issues, consider the following steps:
 
@@ -72,7 +72,7 @@ If you encounter issues, consider the following steps:
 	•	Check file permissions using ls -l ~/.config/xfce4.
 	•	Restore the backup configuration if necessary.
 
-Restoring Original Settings
+## Restoring Original Settings
 
 To revert to your original settings, restore the backup:
 
@@ -80,15 +80,15 @@ mv ~/.config/xfce4_backup ~/.config/xfce4
 
 Then restart your XFCE session.
 
-Contributing
+## Contributing
 
 If you have any improvements or suggestions, feel free to create a pull request or open an issue.
 
-License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
+## Acknowledgements
 
 Thanks to the XFCE community and all contributors who help make this desktop environment amazing.
 
